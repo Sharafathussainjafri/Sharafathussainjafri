@@ -41,3 +41,13 @@ I enjoy building modern, responsive web applications and exploring AI Automation
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,tailwind,laravel,python,git,github,vscode" />
 </p>
 
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sharafathussainjafri&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sharafathussainjafri&theme=tokyonight)
+
+
