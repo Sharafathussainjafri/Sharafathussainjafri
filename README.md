@@ -34,3 +34,10 @@ I enjoy building modern, responsive web applications and exploring AI Automation
 
 ---
 ⭐ Thanks for visiting my profile!
+
+### 💻 My Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react,tailwind,laravel,python,git,github,vscode" />
+</p>
+
