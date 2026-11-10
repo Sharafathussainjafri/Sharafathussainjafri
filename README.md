@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Sharafathussainjafri/Sharafathussainjafri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sharafat Hussain Jafri 👋
 
-Here are some ideas to get you started:
+### Full Stack Web Developer | ADP AI Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student at the University of Management & Technology (UMT), Lahore, Pakistan.
+
+I enjoy building modern, responsive web applications and exploring AI Automation.
+
+### 🚀 About Me
+- 🎓 ADP Artificial Intelligence Student
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently exploring AI Automation and Python
+- ⚡ Learning React and modern web technologies
+- 🎯 Working towards becoming a professional developer
+
+### 🛠️ Technologies & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
+- React
+- Tailwind CSS
+- Laravel
+- Python (Learning)
+- Git & GitHub
+
+### 📌 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sharafat-hussain-dev
+- GitHub: https://github.com/Sharafathussainjafri
+
+---
+⭐ Thanks for visiting my profile!
